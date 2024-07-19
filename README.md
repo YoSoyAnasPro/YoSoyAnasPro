@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐨𝐥𝐚 <𝚍𝚎sarrolladores/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐨𝐥𝐚 <𝚍𝚎sarrollador/>! </h2>
 </div>
 
 <div align="center" width="50">
@@ -37,9 +37,8 @@ o por <a href="mailto:anaspro43@gmail.com"><b>email</b></a>
 <hr width="60%" >
 <h3 align="left">Mis redes Sociales:</h3>
 <p align="left">
-<a href="https://discord.gg/purevision" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anirudhrai693" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/yosoyanaspro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="anii_akhil" height="30" width="40" /></a>
+<a href="https://discord.gg/purevision" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anirudhrai693" height="60" width="80" /></a>
+<a href="https://open.spotify.com/user/yosoyanaspro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="anii_akhil" height="60" width="80" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
