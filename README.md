@@ -32,7 +32,7 @@ o por <a href="mailto:anaspro43@gmail.com"><b>email</b></a>
   <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
   <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yosoyanaspro&theme=dark" alt="yosoyanaspro" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Mis redes Sociales:</h3>
