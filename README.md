@@ -20,7 +20,7 @@ Has descubierto mi perfil de GitHub! <br>
 Siéntase libre de clonar o mirar mis proyectos, plantear problemas y enviar relaciones públicas si cree que algo podría ser mejor. <br>
 Preguntame lo que quieras <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>aqui</b></a><br>
 o por <a href="mailto:anaspro43@gmail.com"><b>email</b></a> 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosoyanaspro&show_icons=true&theme=dark&locale=es&layout=compact" alt="yosoyanaspro" /></p>
 
 </div>
 
