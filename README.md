@@ -16,21 +16,17 @@
 <h3 align="left">Lenguajes que conozco:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p><br>
 <div align="left">
-Has descubierto mi perfil de GitHub! <br>
-Siéntase libre de clonar o mirar mis proyectos, plantear problemas y enviar relaciones públicas si cree que algo podría ser mejor. <br>
-Preguntame lo que quieras <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>aqui</b></a><br>
-o por <a href="mailto:anaspro43@gmail.com"><b>email</b></a> 
+  
+¡Bienvenido a mi perfil de GitHub!
+<br> Soy un desarrollador apasionado con experiencia en FiveM (QBCore y ESX), HTML, CSS, JS, Lua, Python y SQL. Me encanta crear soluciones eficientes y elegantes para problemas .
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosoyanaspro&show_icons=true&theme=dark&locale=es&layout=compact" alt="yosoyanaspro" /></p>
 
-</div>
-
+🛠️ Tecnologías y Herramientas
+<br>Lenguajes de Programación: [JavaScript, Python, Java, C++, etc.]
+Frameworks y Librerías: [React, Angular, Django, Spring, etc.]
+Bases de Datos: [MySQL, PostgreSQL, MongoDB, etc.]
+Herramientas de Desarrollo: [Git, Docker, Jenkins, etc.] </br>
 <div align="center">
-
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yosoyanaspro&theme=dark" alt="yosoyanaspro" /></p>
 <br><br><br><br><br><br><br><br><br><br>
