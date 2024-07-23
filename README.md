@@ -21,11 +21,10 @@
 <br> Soy un desarrollador apasionado con experiencia en FiveM (QBCore y ESX), HTML, CSS, JS, Lua, Python y SQL. Me encanta crear soluciones eficientes y elegantes para problemas .
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosoyanaspro&show_icons=true&theme=dark&locale=es&layout=compact" alt="yosoyanaspro" /></p>
 
-🛠️ Tecnologías y Herramientas
-<br>Lenguajes de Programación: [JavaScript, Python, Java, C++, etc.]
-Frameworks y Librerías: [React, Angular, Django, Spring, etc.]
-Bases de Datos: [MySQL, PostgreSQL, MongoDB, etc.]
-Herramientas de Desarrollo: [Git, Docker, Jenkins, etc.] </br>
+<h3>🛠️ Tecnologías y Herramientas </h3>
+<br>Lenguajes de Programación: [JavaScript, Python, Java, Lua, etc.]
+Bases de Datos: [MySQL]
+Herramientas de Desarrollo: [Git] </br>
 <div align="center">
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yosoyanaspro&theme=dark" alt="yosoyanaspro" /></p>
