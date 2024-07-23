@@ -23,9 +23,9 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosoyanaspro&show_icons=true&theme=dark&locale=es&layout=compact" alt="yosoyanaspro" /></p>
 
 <h3>🛠️ Tecnologías y Herramientas</h3>
-Lenguajes de Programación: [JavaScript, Python, Java, Lua, etc.]
-Bases de Datos: [MySQL]
-Herramientas de Desarrollo: [Git] 
+<br>Lenguajes de Programación: [JavaScript, Python, Java, Lua, etc.] <br>
+<br>Bases de Datos: [MySQL] <br>
+<br>Herramientas de Desarrollo: [Git] <br>
 <div align="center">
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yosoyanaspro&theme=dark" alt="yosoyanaspro" /></p>
