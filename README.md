@@ -22,15 +22,5 @@
 <br>Lenguajes de Programación: [JavaScript, Python, Java, Lua, etc.]
 <br>Bases de Datos: [MySQL]
 <br>Herramientas de Desarrollo: [Git]
-<div align="center">
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yosoyanaspro&theme=dark" alt="yosoyanaspro" /></p>
-
-<hr width="60%" >
-<h3 align="left">Mis redes Sociales:</h3>
-<p align="left">
-<a href="https://discord.gg/purevision" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anirudhrai693" height="60" width="80" /></a>
-<a href="https://open.spotify.com/user/yosoyanaspro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="anii_akhil" height="60" width="80" /></a>
-</p>
-<br>
 
